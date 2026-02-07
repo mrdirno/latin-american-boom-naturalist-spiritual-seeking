@@ -1,0 +1,160 @@
+{
+  "book_id": "latin_american_boom_naturalist_spiritual_seeking",
+  "title": "The River of Remembering",
+  "tagline": "A young shaman and a ninety-four-year-old mystic flee a rising river, guided by a sacred brew that dreams of its own origin, in a journey to the beginning of all waters.",
+  "target_words": 70000,
+  "actual_words": 73276,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Ancestral Debt & Inherited Spirituality",
+    "The Jungle as a Living, Remembering Entity",
+    "The Tension Between Scientific and Mythic Worldviews",
+    "Displacement as a Path to Revelation"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Patient, Rhythmic Tongue",
+      "words": 3053
+    },
+    {
+      "ch": 2,
+      "title": "Title Unavailable",
+      "words": 3053
+    },
+    {
+      "ch": 3,
+      "title": "Title Unavailable",
+      "words": 3053
+    },
+    {
+      "ch": 4,
+      "title": "Chapter Four",
+      "words": 3053
+    },
+    {
+      "ch": 5,
+      "title": "Chapter Five",
+      "words": 3053
+    },
+    {
+      "ch": 6,
+      "title": "Chapter Six",
+      "words": 3053
+    },
+    {
+      "ch": 7,
+      "title": "Chapter Seven",
+      "words": 3053
+    },
+    {
+      "ch": 8,
+      "title": "Chapter Eight",
+      "words": 3053
+    },
+    {
+      "ch": 9,
+      "title": "Chapter Nine",
+      "words": 3053
+    },
+    {
+      "ch": 10,
+      "title": "Chapter Ten",
+      "words": 3053
+    },
+    {
+      "ch": 11,
+      "title": "Chapter Eleven",
+      "words": 3053
+    },
+    {
+      "ch": 12,
+      "title": "Final Chapter",
+      "words": 3053
+    },
+    {
+      "ch": 13,
+      "title": "Chapter 13",
+      "words": 3053
+    },
+    {
+      "ch": 14,
+      "title": "Chapter Fourteen",
+      "words": 3053
+    },
+    {
+      "ch": 15,
+      "title": "Chapter 15",
+      "words": 3053
+    },
+    {
+      "ch": 16,
+      "title": "Chapter 16",
+      "words": 3053
+    },
+    {
+      "ch": 17,
+      "title": "Chapter 17",
+      "words": 3053
+    },
+    {
+      "ch": 18,
+      "title": "Chapter 18",
+      "words": 3053
+    },
+    {
+      "ch": 19,
+      "title": "Chapter 19",
+      "words": 3053
+    },
+    {
+      "ch": 20,
+      "title": "Chapter 20",
+      "words": 3053
+    },
+    {
+      "ch": 21,
+      "title": "Chapter 21",
+      "words": 3053
+    },
+    {
+      "ch": 22,
+      "title": "Chapter Twenty-Two",
+      "words": 3053
+    },
+    {
+      "ch": 23,
+      "title": "Chapter 23",
+      "words": 3053
+    },
+    {
+      "ch": 24,
+      "title": "Chapter Twenty-Four",
+      "words": 3053
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write the letter from Camilo's grandfather that accompanied the jaguar-pelt-wrapped bones. What history, guilt, or prophecy does it contain?",
+      "Describe a 'conversation' between Ofelia and the dreaming yagé brew. What visions does it share, and what does it ask for?",
+      "Craft a chapter from the perspective of the jungle itself, sensing the displaced humans and the sacred object moving through its veins.",
+      "Imagine an encounter with a modern scientist studying the flooding, whose data-driven reality violently clashes with Camilo and Ofelia's journey."
+    ],
+    "technical": [
+      "Build an interactive map of the delta, where rising water levels dynamically reveal and obscure 'mythic waypoints' and practical landmarks.",
+      "Create a generative text system that simulates the 'dreaming brew,' producing poetic, prophetic fragments based on environmental inputs (time, weather, location)."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Gabriel García Márquez",
+      "Werner Herzog",
+      "Linda Hogan",
+      "William Faulkner"
+    ]
+  },
+  "cover_prompt": "A young indigenous shaman and a ninety-four-year-old mystic with a face like weathered bark are urgently guiding a canoe carved with ancestral symbols through the flooded, vine-choked arteries of a sentient jungle, their faces a mix of determination and awe. The scene is a dense, hyper-detailed Amazonian river at the moment of magical inundation, where the water itself glows with bioluminescent algae and the submerged roots of giant kapok trees pulse with a soft, internal light, merging the scientific and the mythic. In the breathtakingly detailed and immersive magical realist style of botanical illustrator Margaret Mee and the mystical, textured environments of Moebius, with the atmospheric depth of Thomas Cole's wilderness. Dramatic book cover composition, centered on the canoe with a low-angle perspective that emphasizes the towering, dripping canopy and the immense, dreaming river, creating a sense of both peril and sacred journey. Ethereal, dappled lighting filters from the canopy above, mixing with the eerie aquatic glow from below in a palette of deep emerald greens, murky earth browns, luminous turquoise, and flashes of spectral gold and indigo. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
